@@ -1,0 +1,43 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(211, 163, 60);
+    padding: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+}
+.origami{
+    border-radius: 30px;
+    background-color: rgb(240, 208, 160);
+    padding: 30px;
+    margin: 30px;
+    width: 320px;
+    font-family:cursive;
+    border-style:outset;
+}
+.grid img{
+  border: 2px solid rgb(163, 107, 23);
+  border-radius: 50px ;
+}
+body{
+    margin: 0px;
+    background-color: rgb(211, 212, 132);
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.bodyimg{
+    display:flex;
+    justify-content:space-around;
+    font-family:inherit;
+    background-color:rgb(163, 190, 66);
+    border-radius:20px;
+}
+
+
+
+
